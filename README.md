@@ -1,21 +1,19 @@
 # NameManipulator
-A Java program for generating and processing lists of names, including shuffling, removing duplicates, and sorting functionalities.
-# NameProcessor
 
-NameProcessor is a Java program for generating and processing lists of names. It includes functionalities for shuffling, removing duplicates, and sorting the names.
+NameManipulator is a Java program for manipulating lists of names. It includes functionalities for shuffling, removing duplicates, and sorting the names.
 
 ## Features
 
 - **Name Generation**: The program can generate random combinations of names.
-- **Name Processing**: It processes generated lists by removing duplicates and sorting them alphabetically.
-- **File I/O**: Reads names from a file and processes them.
+- **Name Manipulation**: It manipulates generated lists by removing duplicates and sorting them alphabetically.
+- **File I/O**: Reads names from a file and manipulates them.
 
 ## Usage
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/NameProcessor.git
+git clone https://github.com/your-username/NameManipulator.git
 
     Compile the Java files:
 
@@ -29,7 +27,7 @@ bash
 
 java NameGenerator
 
-    Run the NameReader to process and display the generated names:
+    Run the NameReader to manipulate and display the generated names:
 
 bash
 
